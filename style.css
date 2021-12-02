@@ -293,12 +293,12 @@ nav{
 .images{
     display: flex;
     flex-wrap: wrap;
-    margin:10px 20px 20px 150px;
+    margin:10px 20px 20px 20px;
     padding: 10px;
     
 }
 .photo{
-    max-width:30%;
+    max-width:20%;
     padding:0 20px;
     height:245px;
 }
@@ -383,14 +383,14 @@ border-radius:10px;
 .Top-Brand{
     display: flex;
     flex-wrap: wrap;
-    margin:10px 20px 20px 60px;
+    margin:10px 20px 20px 10px;
     padding: 10px;
     
 }
 .Brand{
-    max-width:40%;
-    padding:0 20px;
-    height:360px;
+    max-width:20%;
+    padding:0 5px;
+    height: auto;
 }
 
 .Brand img{

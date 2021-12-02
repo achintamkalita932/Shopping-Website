@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Baby Go",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./Photos/kids1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Softsens",
+        "price": 699,
+        "image": { "fields": { "file": { "url": "./Photos/kids2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "YK Star Wars",
+        "price": 1519,
+        "image": { "fields": { "file": { "url": "./Photos/kids3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Gini and Jony",
+        "price": 1290,
+        "image": { "fields": { "file": { "url": "./Photos/kids4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "GAP",
+        "price": 804,
+        "image": { "fields": { "file": { "url": "./Photos/kids5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Tommy Hilfiger",
+        "price": 2999,
+        "image": { "fields": { "file": { "url": "./Photos/kids6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Mango Kids",
+        "price": 2590,
+        "image": { "fields": { "file": { "url": "./Photos/kids7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "GAP",
+        "price": 270,
+        "image": { "fields": { "file": { "url": "./Photos/kids8.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Mango Kids",
+        "price": 1790,
+        "image": { "fields": { "file": { "url": "./Photos/kids9.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Mango Kids",
+        "price": 200,
+        "image": { "fields": { "file": { "url": "./Photos/kids10.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Mango Kids",
+        "price": 250,
+        "image": { "fields": { "file": { "url": "./Photos/kidds6.webp" } } }
+      }
+    }
+    
+  ]
+}

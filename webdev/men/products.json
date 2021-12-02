@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Navy Cotton Tshirt",
+        "price": 1599,
+        "image": { "fields": { "file": { "url": "./Photos/tshirt1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "U.S. POLO",
+        "price": 699,
+        "image": { "fields": { "file": { "url": "./Photos/tshirt2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "YK Star Wars",
+        "price": 1519,
+        "image": { "fields": { "file": { "url": "./Photos/tshirt3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Gini and Jony",
+        "price": 1290,
+        "image": { "fields": { "file": { "url": "./Photos/tshirt4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "GAP",
+        "price": 804,
+        "image": { "fields": { "file": { "url": "./Photos/p-1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Tommy Hilfiger",
+        "price": 2999,
+        "image": { "fields": { "file": { "url": "./Photos/p-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Mango ether",
+        "price": 2590,
+        "image": { "fields": { "file": { "url": "./Photos/p-3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "GAP",
+        "price": 270,
+        "image": { "fields": { "file": { "url": "./Photos/p-5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "LOCOMOTIVE",
+        "price": 1790,
+        "image": { "fields": { "file": { "url": "./Photos/p-6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Tommy Hilfiger",
+        "price": 200,
+        "image": { "fields": { "file": { "url": "./Photos/p-7.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Tommy Hilfiger HR",
+        "price": 250,
+        "image": { "fields": { "file": { "url": "./Photos/shirt2.webp" } } }
+      }
+    }
+    
+  ]
+}
